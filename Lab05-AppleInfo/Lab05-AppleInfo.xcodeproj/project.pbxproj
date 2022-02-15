@@ -7,66 +7,66 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		9DAE9B31279A943F00FFA96E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DAE9B30279A943F00FFA96E /* AppDelegate.swift */; };
-		9DAE9B33279A943F00FFA96E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DAE9B32279A943F00FFA96E /* SceneDelegate.swift */; };
-		9DAE9B35279A943F00FFA96E /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DAE9B34279A943F00FFA96E /* ViewController.swift */; };
-		9DAE9B38279A943F00FFA96E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DAE9B36279A943F00FFA96E /* Main.storyboard */; };
-		9DAE9B3A279A943F00FFA96E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9DAE9B39279A943F00FFA96E /* Assets.xcassets */; };
-		9DAE9B3D279A943F00FFA96E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DAE9B3B279A943F00FFA96E /* LaunchScreen.storyboard */; };
-		9DAE9B48279A943F00FFA96E /* Lab01_AJokeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DAE9B47279A943F00FFA96E /* Lab01_AJokeTests.swift */; };
-		9DAE9B52279A943F00FFA96E /* Lab01_AJokeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DAE9B51279A943F00FFA96E /* Lab01_AJokeUITests.swift */; };
-		9DAE9B54279A943F00FFA96E /* Lab01_AJokeUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DAE9B53279A943F00FFA96E /* Lab01_AJokeUITestsLaunchTests.swift */; };
+		9D277CF127BAAB7D00D9B085 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D277CF027BAAB7D00D9B085 /* AppDelegate.swift */; };
+		9D277CF327BAAB7D00D9B085 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D277CF227BAAB7D00D9B085 /* SceneDelegate.swift */; };
+		9D277CF527BAAB7D00D9B085 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D277CF427BAAB7D00D9B085 /* ViewController.swift */; };
+		9D277CF827BAAB7D00D9B085 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D277CF627BAAB7D00D9B085 /* Main.storyboard */; };
+		9D277CFA27BAAB7E00D9B085 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D277CF927BAAB7E00D9B085 /* Assets.xcassets */; };
+		9D277CFD27BAAB7E00D9B085 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D277CFB27BAAB7E00D9B085 /* LaunchScreen.storyboard */; };
+		9D277D0827BAAB7E00D9B085 /* Lab05_AppleInfoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D277D0727BAAB7E00D9B085 /* Lab05_AppleInfoTests.swift */; };
+		9D277D1227BAAB7E00D9B085 /* Lab05_AppleInfoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D277D1127BAAB7E00D9B085 /* Lab05_AppleInfoUITests.swift */; };
+		9D277D1427BAAB7E00D9B085 /* Lab05_AppleInfoUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D277D1327BAAB7E00D9B085 /* Lab05_AppleInfoUITestsLaunchTests.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		9DAE9B44279A943F00FFA96E /* PBXContainerItemProxy */ = {
+		9D277D0427BAAB7E00D9B085 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 9DAE9B25279A943F00FFA96E /* Project object */;
+			containerPortal = 9D277CE527BAAB7D00D9B085 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 9DAE9B2C279A943F00FFA96E;
-			remoteInfo = "Lab01-AJoke";
+			remoteGlobalIDString = 9D277CEC27BAAB7D00D9B085;
+			remoteInfo = "Lab05-AppleInfo";
 		};
-		9DAE9B4E279A943F00FFA96E /* PBXContainerItemProxy */ = {
+		9D277D0E27BAAB7E00D9B085 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = 9DAE9B25279A943F00FFA96E /* Project object */;
+			containerPortal = 9D277CE527BAAB7D00D9B085 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 9DAE9B2C279A943F00FFA96E;
-			remoteInfo = "Lab01-AJoke";
+			remoteGlobalIDString = 9D277CEC27BAAB7D00D9B085;
+			remoteInfo = "Lab05-AppleInfo";
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9DAE9B2D279A943F00FFA96E /* Lab01-AJoke.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lab01-AJoke.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9DAE9B30279A943F00FFA96E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		9DAE9B32279A943F00FFA96E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		9DAE9B34279A943F00FFA96E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		9DAE9B37279A943F00FFA96E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		9DAE9B39279A943F00FFA96E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		9DAE9B3C279A943F00FFA96E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		9DAE9B3E279A943F00FFA96E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9DAE9B43279A943F00FFA96E /* Lab01-AJokeTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lab01-AJokeTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9DAE9B47279A943F00FFA96E /* Lab01_AJokeTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab01_AJokeTests.swift; sourceTree = "<group>"; };
-		9DAE9B4D279A943F00FFA96E /* Lab01-AJokeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lab01-AJokeUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9DAE9B51279A943F00FFA96E /* Lab01_AJokeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab01_AJokeUITests.swift; sourceTree = "<group>"; };
-		9DAE9B53279A943F00FFA96E /* Lab01_AJokeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab01_AJokeUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		9D277CED27BAAB7D00D9B085 /* Lab05-AppleInfo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Lab05-AppleInfo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D277CF027BAAB7D00D9B085 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		9D277CF227BAAB7D00D9B085 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		9D277CF427BAAB7D00D9B085 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		9D277CF727BAAB7D00D9B085 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		9D277CF927BAAB7E00D9B085 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		9D277CFC27BAAB7E00D9B085 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		9D277CFE27BAAB7E00D9B085 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9D277D0327BAAB7E00D9B085 /* Lab05-AppleInfoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lab05-AppleInfoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D277D0727BAAB7E00D9B085 /* Lab05_AppleInfoTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab05_AppleInfoTests.swift; sourceTree = "<group>"; };
+		9D277D0D27BAAB7E00D9B085 /* Lab05-AppleInfoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Lab05-AppleInfoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D277D1127BAAB7E00D9B085 /* Lab05_AppleInfoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab05_AppleInfoUITests.swift; sourceTree = "<group>"; };
+		9D277D1327BAAB7E00D9B085 /* Lab05_AppleInfoUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lab05_AppleInfoUITestsLaunchTests.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		9DAE9B2A279A943F00FFA96E /* Frameworks */ = {
+		9D277CEA27BAAB7D00D9B085 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9DAE9B40279A943F00FFA96E /* Frameworks */ = {
+		9D277D0027BAAB7E00D9B085 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9DAE9B4A279A943F00FFA96E /* Frameworks */ = {
+		9D277D0A27BAAB7E00D9B085 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -76,137 +76,137 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		9DAE9B24279A943F00FFA96E = {
+		9D277CE427BAAB7D00D9B085 = {
 			isa = PBXGroup;
 			children = (
-				9DAE9B2F279A943F00FFA96E /* Lab01-AJoke */,
-				9DAE9B46279A943F00FFA96E /* Lab01-AJokeTests */,
-				9DAE9B50279A943F00FFA96E /* Lab01-AJokeUITests */,
-				9DAE9B2E279A943F00FFA96E /* Products */,
+				9D277CEF27BAAB7D00D9B085 /* Lab05-AppleInfo */,
+				9D277D0627BAAB7E00D9B085 /* Lab05-AppleInfoTests */,
+				9D277D1027BAAB7E00D9B085 /* Lab05-AppleInfoUITests */,
+				9D277CEE27BAAB7D00D9B085 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		9DAE9B2E279A943F00FFA96E /* Products */ = {
+		9D277CEE27BAAB7D00D9B085 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9DAE9B2D279A943F00FFA96E /* Lab01-AJoke.app */,
-				9DAE9B43279A943F00FFA96E /* Lab01-AJokeTests.xctest */,
-				9DAE9B4D279A943F00FFA96E /* Lab01-AJokeUITests.xctest */,
+				9D277CED27BAAB7D00D9B085 /* Lab05-AppleInfo.app */,
+				9D277D0327BAAB7E00D9B085 /* Lab05-AppleInfoTests.xctest */,
+				9D277D0D27BAAB7E00D9B085 /* Lab05-AppleInfoUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		9DAE9B2F279A943F00FFA96E /* Lab01-AJoke */ = {
+		9D277CEF27BAAB7D00D9B085 /* Lab05-AppleInfo */ = {
 			isa = PBXGroup;
 			children = (
-				9DAE9B30279A943F00FFA96E /* AppDelegate.swift */,
-				9DAE9B32279A943F00FFA96E /* SceneDelegate.swift */,
-				9DAE9B34279A943F00FFA96E /* ViewController.swift */,
-				9DAE9B36279A943F00FFA96E /* Main.storyboard */,
-				9DAE9B39279A943F00FFA96E /* Assets.xcassets */,
-				9DAE9B3B279A943F00FFA96E /* LaunchScreen.storyboard */,
-				9DAE9B3E279A943F00FFA96E /* Info.plist */,
+				9D277CF027BAAB7D00D9B085 /* AppDelegate.swift */,
+				9D277CF227BAAB7D00D9B085 /* SceneDelegate.swift */,
+				9D277CF427BAAB7D00D9B085 /* ViewController.swift */,
+				9D277CF627BAAB7D00D9B085 /* Main.storyboard */,
+				9D277CF927BAAB7E00D9B085 /* Assets.xcassets */,
+				9D277CFB27BAAB7E00D9B085 /* LaunchScreen.storyboard */,
+				9D277CFE27BAAB7E00D9B085 /* Info.plist */,
 			);
-			path = "Lab01-AJoke";
+			path = "Lab05-AppleInfo";
 			sourceTree = "<group>";
 		};
-		9DAE9B46279A943F00FFA96E /* Lab01-AJokeTests */ = {
+		9D277D0627BAAB7E00D9B085 /* Lab05-AppleInfoTests */ = {
 			isa = PBXGroup;
 			children = (
-				9DAE9B47279A943F00FFA96E /* Lab01_AJokeTests.swift */,
+				9D277D0727BAAB7E00D9B085 /* Lab05_AppleInfoTests.swift */,
 			);
-			path = "Lab01-AJokeTests";
+			path = "Lab05-AppleInfoTests";
 			sourceTree = "<group>";
 		};
-		9DAE9B50279A943F00FFA96E /* Lab01-AJokeUITests */ = {
+		9D277D1027BAAB7E00D9B085 /* Lab05-AppleInfoUITests */ = {
 			isa = PBXGroup;
 			children = (
-				9DAE9B51279A943F00FFA96E /* Lab01_AJokeUITests.swift */,
-				9DAE9B53279A943F00FFA96E /* Lab01_AJokeUITestsLaunchTests.swift */,
+				9D277D1127BAAB7E00D9B085 /* Lab05_AppleInfoUITests.swift */,
+				9D277D1327BAAB7E00D9B085 /* Lab05_AppleInfoUITestsLaunchTests.swift */,
 			);
-			path = "Lab01-AJokeUITests";
+			path = "Lab05-AppleInfoUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		9DAE9B2C279A943F00FFA96E /* Lab01-AJoke */ = {
+		9D277CEC27BAAB7D00D9B085 /* Lab05-AppleInfo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9DAE9B57279A943F00FFA96E /* Build configuration list for PBXNativeTarget "Lab01-AJoke" */;
+			buildConfigurationList = 9D277D1727BAAB7E00D9B085 /* Build configuration list for PBXNativeTarget "Lab05-AppleInfo" */;
 			buildPhases = (
-				9DAE9B29279A943F00FFA96E /* Sources */,
-				9DAE9B2A279A943F00FFA96E /* Frameworks */,
-				9DAE9B2B279A943F00FFA96E /* Resources */,
+				9D277CE927BAAB7D00D9B085 /* Sources */,
+				9D277CEA27BAAB7D00D9B085 /* Frameworks */,
+				9D277CEB27BAAB7D00D9B085 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = "Lab01-AJoke";
-			productName = "Lab01-AJoke";
-			productReference = 9DAE9B2D279A943F00FFA96E /* Lab01-AJoke.app */;
+			name = "Lab05-AppleInfo";
+			productName = "Lab05-AppleInfo";
+			productReference = 9D277CED27BAAB7D00D9B085 /* Lab05-AppleInfo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		9DAE9B42279A943F00FFA96E /* Lab01-AJokeTests */ = {
+		9D277D0227BAAB7E00D9B085 /* Lab05-AppleInfoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9DAE9B5A279A943F00FFA96E /* Build configuration list for PBXNativeTarget "Lab01-AJokeTests" */;
+			buildConfigurationList = 9D277D1A27BAAB7E00D9B085 /* Build configuration list for PBXNativeTarget "Lab05-AppleInfoTests" */;
 			buildPhases = (
-				9DAE9B3F279A943F00FFA96E /* Sources */,
-				9DAE9B40279A943F00FFA96E /* Frameworks */,
-				9DAE9B41279A943F00FFA96E /* Resources */,
+				9D277CFF27BAAB7E00D9B085 /* Sources */,
+				9D277D0027BAAB7E00D9B085 /* Frameworks */,
+				9D277D0127BAAB7E00D9B085 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				9DAE9B45279A943F00FFA96E /* PBXTargetDependency */,
+				9D277D0527BAAB7E00D9B085 /* PBXTargetDependency */,
 			);
-			name = "Lab01-AJokeTests";
-			productName = "Lab01-AJokeTests";
-			productReference = 9DAE9B43279A943F00FFA96E /* Lab01-AJokeTests.xctest */;
+			name = "Lab05-AppleInfoTests";
+			productName = "Lab05-AppleInfoTests";
+			productReference = 9D277D0327BAAB7E00D9B085 /* Lab05-AppleInfoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		9DAE9B4C279A943F00FFA96E /* Lab01-AJokeUITests */ = {
+		9D277D0C27BAAB7E00D9B085 /* Lab05-AppleInfoUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 9DAE9B5D279A943F00FFA96E /* Build configuration list for PBXNativeTarget "Lab01-AJokeUITests" */;
+			buildConfigurationList = 9D277D1D27BAAB7E00D9B085 /* Build configuration list for PBXNativeTarget "Lab05-AppleInfoUITests" */;
 			buildPhases = (
-				9DAE9B49279A943F00FFA96E /* Sources */,
-				9DAE9B4A279A943F00FFA96E /* Frameworks */,
-				9DAE9B4B279A943F00FFA96E /* Resources */,
+				9D277D0927BAAB7E00D9B085 /* Sources */,
+				9D277D0A27BAAB7E00D9B085 /* Frameworks */,
+				9D277D0B27BAAB7E00D9B085 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				9DAE9B4F279A943F00FFA96E /* PBXTargetDependency */,
+				9D277D0F27BAAB7E00D9B085 /* PBXTargetDependency */,
 			);
-			name = "Lab01-AJokeUITests";
-			productName = "Lab01-AJokeUITests";
-			productReference = 9DAE9B4D279A943F00FFA96E /* Lab01-AJokeUITests.xctest */;
+			name = "Lab05-AppleInfoUITests";
+			productName = "Lab05-AppleInfoUITests";
+			productReference = 9D277D0D27BAAB7E00D9B085 /* Lab05-AppleInfoUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		9DAE9B25279A943F00FFA96E /* Project object */ = {
+		9D277CE527BAAB7D00D9B085 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1320;
 				LastUpgradeCheck = 1320;
 				TargetAttributes = {
-					9DAE9B2C279A943F00FFA96E = {
+					9D277CEC27BAAB7D00D9B085 = {
 						CreatedOnToolsVersion = 13.2.1;
 					};
-					9DAE9B42279A943F00FFA96E = {
+					9D277D0227BAAB7E00D9B085 = {
 						CreatedOnToolsVersion = 13.2.1;
-						TestTargetID = 9DAE9B2C279A943F00FFA96E;
+						TestTargetID = 9D277CEC27BAAB7D00D9B085;
 					};
-					9DAE9B4C279A943F00FFA96E = {
+					9D277D0C27BAAB7E00D9B085 = {
 						CreatedOnToolsVersion = 13.2.1;
-						TestTargetID = 9DAE9B2C279A943F00FFA96E;
+						TestTargetID = 9D277CEC27BAAB7D00D9B085;
 					};
 				};
 			};
-			buildConfigurationList = 9DAE9B28279A943F00FFA96E /* Build configuration list for PBXProject "Lab01-AJoke" */;
+			buildConfigurationList = 9D277CE827BAAB7D00D9B085 /* Build configuration list for PBXProject "Lab05-AppleInfo" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -214,37 +214,37 @@
 				en,
 				Base,
 			);
-			mainGroup = 9DAE9B24279A943F00FFA96E;
-			productRefGroup = 9DAE9B2E279A943F00FFA96E /* Products */;
+			mainGroup = 9D277CE427BAAB7D00D9B085;
+			productRefGroup = 9D277CEE27BAAB7D00D9B085 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				9DAE9B2C279A943F00FFA96E /* Lab01-AJoke */,
-				9DAE9B42279A943F00FFA96E /* Lab01-AJokeTests */,
-				9DAE9B4C279A943F00FFA96E /* Lab01-AJokeUITests */,
+				9D277CEC27BAAB7D00D9B085 /* Lab05-AppleInfo */,
+				9D277D0227BAAB7E00D9B085 /* Lab05-AppleInfoTests */,
+				9D277D0C27BAAB7E00D9B085 /* Lab05-AppleInfoUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		9DAE9B2B279A943F00FFA96E /* Resources */ = {
+		9D277CEB27BAAB7D00D9B085 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9DAE9B3D279A943F00FFA96E /* LaunchScreen.storyboard in Resources */,
-				9DAE9B3A279A943F00FFA96E /* Assets.xcassets in Resources */,
-				9DAE9B38279A943F00FFA96E /* Main.storyboard in Resources */,
+				9D277CFD27BAAB7E00D9B085 /* LaunchScreen.storyboard in Resources */,
+				9D277CFA27BAAB7E00D9B085 /* Assets.xcassets in Resources */,
+				9D277CF827BAAB7D00D9B085 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9DAE9B41279A943F00FFA96E /* Resources */ = {
+		9D277D0127BAAB7E00D9B085 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9DAE9B4B279A943F00FFA96E /* Resources */ = {
+		9D277D0B27BAAB7E00D9B085 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -254,61 +254,61 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		9DAE9B29279A943F00FFA96E /* Sources */ = {
+		9D277CE927BAAB7D00D9B085 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9DAE9B35279A943F00FFA96E /* ViewController.swift in Sources */,
-				9DAE9B31279A943F00FFA96E /* AppDelegate.swift in Sources */,
-				9DAE9B33279A943F00FFA96E /* SceneDelegate.swift in Sources */,
+				9D277CF527BAAB7D00D9B085 /* ViewController.swift in Sources */,
+				9D277CF127BAAB7D00D9B085 /* AppDelegate.swift in Sources */,
+				9D277CF327BAAB7D00D9B085 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9DAE9B3F279A943F00FFA96E /* Sources */ = {
+		9D277CFF27BAAB7E00D9B085 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9DAE9B48279A943F00FFA96E /* Lab01_AJokeTests.swift in Sources */,
+				9D277D0827BAAB7E00D9B085 /* Lab05_AppleInfoTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		9DAE9B49279A943F00FFA96E /* Sources */ = {
+		9D277D0927BAAB7E00D9B085 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9DAE9B54279A943F00FFA96E /* Lab01_AJokeUITestsLaunchTests.swift in Sources */,
-				9DAE9B52279A943F00FFA96E /* Lab01_AJokeUITests.swift in Sources */,
+				9D277D1427BAAB7E00D9B085 /* Lab05_AppleInfoUITestsLaunchTests.swift in Sources */,
+				9D277D1227BAAB7E00D9B085 /* Lab05_AppleInfoUITests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		9DAE9B45279A943F00FFA96E /* PBXTargetDependency */ = {
+		9D277D0527BAAB7E00D9B085 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9DAE9B2C279A943F00FFA96E /* Lab01-AJoke */;
-			targetProxy = 9DAE9B44279A943F00FFA96E /* PBXContainerItemProxy */;
+			target = 9D277CEC27BAAB7D00D9B085 /* Lab05-AppleInfo */;
+			targetProxy = 9D277D0427BAAB7E00D9B085 /* PBXContainerItemProxy */;
 		};
-		9DAE9B4F279A943F00FFA96E /* PBXTargetDependency */ = {
+		9D277D0F27BAAB7E00D9B085 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = 9DAE9B2C279A943F00FFA96E /* Lab01-AJoke */;
-			targetProxy = 9DAE9B4E279A943F00FFA96E /* PBXContainerItemProxy */;
+			target = 9D277CEC27BAAB7D00D9B085 /* Lab05-AppleInfo */;
+			targetProxy = 9D277D0E27BAAB7E00D9B085 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
-		9DAE9B36279A943F00FFA96E /* Main.storyboard */ = {
+		9D277CF627BAAB7D00D9B085 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9DAE9B37279A943F00FFA96E /* Base */,
+				9D277CF727BAAB7D00D9B085 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		9DAE9B3B279A943F00FFA96E /* LaunchScreen.storyboard */ = {
+		9D277CFB27BAAB7E00D9B085 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				9DAE9B3C279A943F00FFA96E /* Base */,
+				9D277CFC27BAAB7E00D9B085 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -316,7 +316,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		9DAE9B55279A943F00FFA96E /* Debug */ = {
+		9D277D1527BAAB7E00D9B085 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -377,7 +377,7 @@
 			};
 			name = Debug;
 		};
-		9DAE9B56279A943F00FFA96E /* Release */ = {
+		9D277D1627BAAB7E00D9B085 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -432,7 +432,7 @@
 			};
 			name = Release;
 		};
-		9DAE9B58279A943F00FFA96E /* Debug */ = {
+		9D277D1827BAAB7E00D9B085 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -440,7 +440,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Lab01-AJoke/Info.plist";
+				INFOPLIST_FILE = "Lab05-AppleInfo/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -451,7 +451,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.tric.it.Lab01-AJoke";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.tric.it.Lab05-AppleInfo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -459,7 +459,7 @@
 			};
 			name = Debug;
 		};
-		9DAE9B59279A943F00FFA96E /* Release */ = {
+		9D277D1927BAAB7E00D9B085 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -467,7 +467,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Lab01-AJoke/Info.plist";
+				INFOPLIST_FILE = "Lab05-AppleInfo/Info.plist";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -478,7 +478,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.tric.it.Lab01-AJoke";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.tric.it.Lab05-AppleInfo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -486,7 +486,7 @@
 			};
 			name = Release;
 		};
-		9DAE9B5B279A943F00FFA96E /* Debug */ = {
+		9D277D1B27BAAB7E00D9B085 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -496,16 +496,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.tric.it.Lab01-AJokeTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.tric.it.Lab05-AppleInfoTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Lab01-AJoke.app/Lab01-AJoke";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Lab05-AppleInfo.app/Lab05-AppleInfo";
 			};
 			name = Debug;
 		};
-		9DAE9B5C279A943F00FFA96E /* Release */ = {
+		9D277D1C27BAAB7E00D9B085 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -515,16 +515,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.tric.it.Lab01-AJokeTests";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.tric.it.Lab05-AppleInfoTests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Lab01-AJoke.app/Lab01-AJoke";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Lab05-AppleInfo.app/Lab05-AppleInfo";
 			};
 			name = Release;
 		};
-		9DAE9B5E279A943F00FFA96E /* Debug */ = {
+		9D277D1E27BAAB7E00D9B085 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -532,16 +532,16 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.tric.it.Lab01-AJokeUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.tric.it.Lab05-AppleInfoUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Lab01-AJoke";
+				TEST_TARGET_NAME = "Lab05-AppleInfo";
 			};
 			name = Debug;
 		};
-		9DAE9B5F279A943F00FFA96E /* Release */ = {
+		9D277D1F27BAAB7E00D9B085 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
@@ -549,55 +549,55 @@
 				CURRENT_PROJECT_VERSION = 1;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "edu.tric.it.Lab01-AJokeUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = "edu.tric.it.Lab05-AppleInfoUITests";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Lab01-AJoke";
+				TEST_TARGET_NAME = "Lab05-AppleInfo";
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		9DAE9B28279A943F00FFA96E /* Build configuration list for PBXProject "Lab01-AJoke" */ = {
+		9D277CE827BAAB7D00D9B085 /* Build configuration list for PBXProject "Lab05-AppleInfo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9DAE9B55279A943F00FFA96E /* Debug */,
-				9DAE9B56279A943F00FFA96E /* Release */,
+				9D277D1527BAAB7E00D9B085 /* Debug */,
+				9D277D1627BAAB7E00D9B085 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9DAE9B57279A943F00FFA96E /* Build configuration list for PBXNativeTarget "Lab01-AJoke" */ = {
+		9D277D1727BAAB7E00D9B085 /* Build configuration list for PBXNativeTarget "Lab05-AppleInfo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9DAE9B58279A943F00FFA96E /* Debug */,
-				9DAE9B59279A943F00FFA96E /* Release */,
+				9D277D1827BAAB7E00D9B085 /* Debug */,
+				9D277D1927BAAB7E00D9B085 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9DAE9B5A279A943F00FFA96E /* Build configuration list for PBXNativeTarget "Lab01-AJokeTests" */ = {
+		9D277D1A27BAAB7E00D9B085 /* Build configuration list for PBXNativeTarget "Lab05-AppleInfoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9DAE9B5B279A943F00FFA96E /* Debug */,
-				9DAE9B5C279A943F00FFA96E /* Release */,
+				9D277D1B27BAAB7E00D9B085 /* Debug */,
+				9D277D1C27BAAB7E00D9B085 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		9DAE9B5D279A943F00FFA96E /* Build configuration list for PBXNativeTarget "Lab01-AJokeUITests" */ = {
+		9D277D1D27BAAB7E00D9B085 /* Build configuration list for PBXNativeTarget "Lab05-AppleInfoUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				9DAE9B5E279A943F00FFA96E /* Debug */,
-				9DAE9B5F279A943F00FFA96E /* Release */,
+				9D277D1E27BAAB7E00D9B085 /* Debug */,
+				9D277D1F27BAAB7E00D9B085 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 9DAE9B25279A943F00FFA96E /* Project object */;
+	rootObject = 9D277CE527BAAB7D00D9B085 /* Project object */;
 }

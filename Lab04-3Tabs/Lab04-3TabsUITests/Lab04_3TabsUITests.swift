@@ -1,13 +1,13 @@
 //
-//  Lab01_AJokeUITests.swift
-//  Lab01-AJokeUITests
+//  Lab04_3TabsUITests.swift
+//  Lab04-3TabsUITests
 //
-//  Created by Christopher Hill on 1/21/22.
+//  Created by Christopher Hill on 2/7/22.
 //
 
 import XCTest
 
-class Lab01_AJokeUITests: XCTestCase {
+class Lab04_3TabsUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

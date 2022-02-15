@@ -1,14 +1,14 @@
 //
-//  Lab01_AJokeTests.swift
-//  Lab01-AJokeTests
+//  Lab05_AppleInfoTests.swift
+//  Lab05-AppleInfoTests
 //
-//  Created by Christopher Hill on 1/21/22.
+//  Created by Christopher Hill on 2/14/22.
 //
 
 import XCTest
-@testable import Lab01_AJoke
+@testable import Lab05_AppleInfo
 
-class Lab01_AJokeTests: XCTestCase {
+class Lab05_AppleInfoTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

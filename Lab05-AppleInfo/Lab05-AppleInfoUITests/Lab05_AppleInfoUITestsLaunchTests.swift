@@ -1,13 +1,13 @@
 //
-//  Lab01_AJokeUITestsLaunchTests.swift
-//  Lab01-AJokeUITests
+//  Lab05_AppleInfoUITestsLaunchTests.swift
+//  Lab05-AppleInfoUITests
 //
-//  Created by Christopher Hill on 1/21/22.
+//  Created by Christopher Hill on 2/14/22.
 //
 
 import XCTest
 
-class Lab01_AJokeUITestsLaunchTests: XCTestCase {
+class Lab05_AppleInfoUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

@@ -25,7 +25,7 @@ class ViewController: UIViewController {
     override func viewWillLayoutSubviews() {
         super.viewWillLayoutSubviews()
         
-        gradient.frame = view.bounds
+        gradient.frame = view.bounds 
     }
 }
 

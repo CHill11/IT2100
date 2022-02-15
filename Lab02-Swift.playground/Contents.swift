@@ -41,7 +41,7 @@ print(errorString)
 
 //The problem with forcibly unwrapping is it does not check for a nil variable and will cause a fatal error. The if statement checks the reading variables to make sure they are not nil. If one is the else statement will execute and catch the error.
 
-*/
+*/ 
 //Question 7
 /*let range = 1...5
 for i in range {

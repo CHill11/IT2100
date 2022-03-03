@@ -4,7 +4,7 @@ var curVal2: Float = 108.99
 var curVal3 = Float(14.22)
 let curValTotal = (curVal1 + curVal2 + curVal3)
 print(curValTotal)
-*/
+*/ 
 // Question 2
 /*var isNegative: Bool = (0 < 0)
 if isNegative == true {

@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     let gradient = CAGradientLayer()
     override func viewDidLoad() {
-        super.viewDidLoad()
+        super.viewDidLoad() 
         
         
         gradient.colors = [UIColor.purple.cgColor,
